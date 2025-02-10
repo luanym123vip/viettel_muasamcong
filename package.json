@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.7.9",
+    "file-saver": "^2.0.5",
+    "moment": "^2.30.1",
+    "xlsx": "^0.18.5"
+  },
+  "name": "viettel_muasamcong",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
